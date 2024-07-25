@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Movie gen**
 
-- 👨‍💻 All of my projects are available at [mrshan.live)
+- 👨‍💻 All of my projects are available at **https://mrshan.live/**
 
 - 💬 Ask me about **MERN , Angualar**
 
