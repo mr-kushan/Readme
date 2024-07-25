@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Movie gen**
 
-- 👨‍💻 All of my projects are available at [https://it21157882.github.io/My_Portfolio/](https://it21157882.github.io/My_Portfolio/)
+- 👨‍💻 All of my projects are available at [mrshan.live)
 
 - 💬 Ask me about **MERN , Angualar**
 
